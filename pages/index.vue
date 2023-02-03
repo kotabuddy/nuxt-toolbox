@@ -1,4 +1,3 @@
-<template>
   <main>
     <div class="intro">
       <h1>Privacy Policy</h1>
@@ -64,4 +63,5 @@ Contact Us
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at kotabuddy@email.com
       </p>
     </div>
-    
+   
+  </main>
