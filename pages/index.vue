@@ -1,5 +1,5 @@
   <main>
-    <div class="intro">
+    <div>
       <h1>Privacy Policy</h1>
       <p>
         Med-IIT Social Club built the Kota Buddy app as a Free app. This SERVICE is provided by Med-IIT Social Club at no cost and is intended for use as is.
